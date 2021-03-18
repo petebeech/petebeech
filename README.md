@@ -4,7 +4,7 @@
 
 Have done all sorts over the years: robotics, lab scientist software, firmware, transport-oriented websites and applications, networking backend stuff, pricing strategy analysis applications, productivity apps, salesforce type apps, heavy duty pricing calculation engines, etc, etc.
 
-I architected, designed and developed the complete software for 'dragofly', the acclaimed and award-winning liquid handling robot from SPT Labtech.
+I architected, designed and developed the complete software for 'dragonfly', the acclaimed and award-winning liquid handling robot from SPT Labtech.
 
 I'm currently doing TV scheduling and broadcast software - up to my eyes in data processing, merkle trees and gRPC.
 
